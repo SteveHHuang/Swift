@@ -1,5 +1,6 @@
 import SwiftUI
 //2023新年快乐🎉
+//半成品
 struct BT_sec : View{
     var body: some View {
         VStack(spacing:30){
